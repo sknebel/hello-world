@@ -1,2 +1,2 @@
 # hello-world
-hello world project for buildbot tutorials
+hello world project for buildbot tutorialz
